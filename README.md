@@ -1,2 +1,2 @@
 # Computer-Vision-notebooks
-A collection of Jupyter notebooks for various computer vision tasks using Keras, KerasCV, and TensorFlow. Includes image classification, object detection, and advanced deep learning techniques. Covers data preprocessing, augmentation, model training, and evaluation.
+This repository contains a collection of Jupyter notebooks focused on various computer vision tasks. The projects include image classification, object detection, and other advanced techniques using deep learning frameworks such as Keras, KerasCV, and TensorFlow. The notebooks cover the entire workflow from data preprocessing and augmentation to model training and evaluation.
