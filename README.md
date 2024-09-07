@@ -2,8 +2,6 @@
 
 # Computer-Vision-Notebooks 🚀
 
-![Computer Vision]([https://via.placeholder.com/800x200.png?text=Computer+Vision+with+Deep+Learning])
-
 ---
 
 ## 📝 Introduction
