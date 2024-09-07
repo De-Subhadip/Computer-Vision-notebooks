@@ -2,7 +2,7 @@
 
 # Computer-Vision-Notebooks 🚀
 
-![Computer Vision]([https://via.placeholder.com/800x200.png?text=Computer+Vision+with+Deep+Learning])
+![Computer Vision]([https://www.allerin.com/blog/how-computer-vision-can-help-improve-safety-compliance])
 
 ---
 
