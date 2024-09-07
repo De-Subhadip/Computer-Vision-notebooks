@@ -2,7 +2,7 @@
 
 # Computer-Vision-Notebooks 🚀
 
-![Computer Vision](https://via.placeholder.com/800x200.png?text=Computer+Vision+with+Deep+Learning)
+![Computer Vision]([https://via.placeholder.com/800x200.png?text=Computer+Vision+with+Deep+Learning](https://files.oaiusercontent.com/file-tthfma01dLHgxHNeqWtgJUOy?se=2024-09-07T20%3A06%3A52Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D6365c563-42c4-4c81-90f1-6afd24314ba0.webp&sig=PqJdadxk/92M%2BDZG7mteKBkw87YYvnfNSBEN7Ksr0V8%3D))
 
 ---
 
