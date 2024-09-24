@@ -105,9 +105,9 @@ To get started with the notebooks, follow these steps:
 | Task                | Description                                                                                  | Frameworks        |
 |---------------------|----------------------------------------------------------------------------------------------|-------------------|
 | **Image Classification** | Fine-tuned models for classifying images into various categories                          |Keras, KerasCV, Tensorflow |
-| **Object Detection**     | Detecting objects in images with pre-trained models and transfer learning                  | Keras, KerasCV, TensorFlow |
-| **Data Augmentation**    | Techniques like rotation, flipping, and scaling to enhance training data, and some advanced techniques such as CutMix and MixUp                  |Keras, KerasCV |
-| **Model Evaluation**     | Detailed performance evaluation including precision, recall, and confusion matrices        | Keras, KerasCV |
+| **Object Detection**     | Detecting objects in images with pre-trained models and transfer learning                  | Keras, KerasCV |
+| **Data Augmentation**    | Techniques like rotation, flipping, and scaling to enhance training data, and some advanced techniques such as CutMix and MixUp                  |Keras, KerasCV, Tensorflow |
+| **Model Evaluation**     | Detailed performance evaluation including precision, recall, and confusion matrices        | Keras, KerasCV, Tensorflow |
 
 ---
 
