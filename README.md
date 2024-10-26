@@ -130,9 +130,3 @@ To get started with the notebooks, follow these steps:
 - Deep learning models in computer vision can now even detect objects at the **pixel level**! 🔍👁️
 
 ---
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
